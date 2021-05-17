@@ -1,0 +1,28 @@
+{
+  "name": "三浦翔平",
+  "pass": "marbles_miura",
+  "mail": "",
+
+  "rivals": [
+    "https://www.instagram.com/shohei.63/?hl=ja",
+    "https://www.instagram.com/miurashoheiworld/?hl=ja",
+    "https://www.instagram.com/shoheisaaaaan/?hl=ja",
+    "https://www.instagram.com/miurashoheisgfanpage/?hl=ja",
+    "https://www.instagram.com/shohei_fan/?hl=ja"
+  ],
+
+  "sheet": {
+    "key": "1kk42fCyWIAf7taxEp0zwI-P_5DruB0MYJYELx9kB3TE",
+    "gas": "https://script.google.com/macros/s/AKfycbxrX22ygd90oys7Kggd_CbXST2TAkv7EK2grlMx4s7m5ZRAmPsQyG_rHVFJj3fwM_Kc2A/exec"
+  },
+
+  "automatic_like": {
+    "reach"     : 10,
+    "max_follow": 1,
+
+    "release_follow": 11,
+    "release_min"   : 100,
+
+    "get_list" : 10
+  }
+}

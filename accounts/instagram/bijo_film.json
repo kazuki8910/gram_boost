@@ -1,0 +1,35 @@
+{
+    "name":      "美女フィルム",
+    "pass":      "bijopass3",
+    "mail":      "bijo.film@gmail.com",
+    "mail_old":  "hanageking@icloud.com",
+    "mail_pass": "bijopass",
+
+    "rivals": [
+      "https://www.instagram.com/b_b_j.j/",
+      "https://www.instagram.com/bijo_navi/",
+      "https://www.instagram.com/bijo_gramer/"
+    ],
+
+    "sheet": {
+      "key": "1wDrjyDuATRNZTqFOrDRdy6STTRJMoWZcmvPE_YjqNDs",
+      "gas": "https://script.google.com/macros/s/AKfycbwHs81ZRjkb3JotFD7PdIhgxIqL-gF9vsOfgoDeQ-NjnXY5JktnLxPY/exec"
+    },
+
+    "automatic_like": {
+      "reach"     : 40,
+      "max_follow": 5,
+
+      "release_follow": 11,
+      "release_min"   : 100,
+
+      "get_list" : 50
+    },
+
+    "template": [
+      "\n*\n*\n今回ご紹介するのは☝️\n",
+      "さん！\n@",
+      "\n*\n*\n",
+      "\n*\n*\n他にも素敵な投稿がたくさんありますので、ぜひ☝️チェック♡\n*\n*\n掲載ご希望の方は\n▶︎▷ #ビジョフィル ▶︎▷ @bijo_film\nのタグ付けをお願いします♪\n*\n*\n#大人可愛い #笑顔 #美肌 #おしゃれ女子 #女子力 #オトナ女子 #ビキニ #モデル #水着 #セクシー #グラビア #かわいい #カワイイ #美女 #美少女 #beautifullegs #다리 #asiangirl #japanesegirl #cutegirl #beautifulgirl #prettygirl #perfectgirl #swimwear #gravure"
+    ]
+}

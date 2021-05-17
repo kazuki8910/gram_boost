@@ -1,0 +1,35 @@
+{
+  "favo_report": {
+      "name": "自動いいねレポート",
+      "head": {
+        "follower": "follower",
+        "growth": "growth",
+        "reach": "reach",
+        "favo_user": "favo_user",
+        "favo": "favo",
+        "follow": "follow"
+      }
+  },
+
+  "favo_list": {
+      "name": "いいね先",
+      "col": {
+        "url": "アカウントURL"
+      }
+  },
+
+  "citation_account": {
+      "name": "引用アカウント",
+      "col": {
+          "url": "アカウントURL"
+      }
+  },
+
+  "post_stock": {
+      "name": "引用投稿（ストック）",
+      "col": {
+          "url" : "投稿のURL",
+          "favo": "いいね数"
+      }
+  }
+}

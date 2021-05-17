@@ -1,0 +1,31 @@
+{
+  "name"     : "あやの（コスメ）",
+  "pass"     : "cosme22@",
+  "mail"     : "bbj.cosme.aya@gmail.com",
+  "mail_pass": "cos324aa",
+
+  "rivals": [
+    "https://www.instagram.com/ossy_beautylog/",
+    "https://www.instagram.com/shabon_official/",
+    "https://www.instagram.com/happy_cosme3150/",
+    "https://www.instagram.com/charico2019/",
+    "https://www.instagram.com/bluebe_chan/",
+    "https://www.instagram.com/dinette_inc/"
+  ],
+
+  "sheet": {
+    "key": "1dkzWzcDN4XR3fN_Jqf0IcixHvlDafCw4hr3zQMvoGYg",
+    "gas": "https://script.google.com/macros/s/AKfycbyNA5JDLY-jBg93mMGAtdI0qRqWBRei36OTTyCX-ELElNMdDV_ScofoKA/exec"
+  },
+
+
+  "automatic_like": {
+    "reach"     : 25,
+    "max_follow": 3,
+
+    "release_follow": 6,
+    "release_min"   : 100,
+
+    "get_list" : 300
+  }
+}

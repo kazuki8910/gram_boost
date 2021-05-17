@@ -1,0 +1,19 @@
+{
+  "name": "auto_bot_k1",
+  "pass":"autobot1",
+
+  "automatic_like": {
+    "reach"     : 50,
+    "max_follow": 10,
+
+    "release_follow": 1,
+    "release_min"   : 5,
+
+    "get_list" : 300
+  },
+
+  "rivals": [
+    "https://www.instagram.com/camp_hack/",
+    "https://www.instagram.com/campzine/"
+  ]
+}

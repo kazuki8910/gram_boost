@@ -1,0 +1,33 @@
+{
+  "name":     "キャンプフィルム",
+  "pass":     "filmpass2",
+  "mail":     "osikkoga_deru@yahoo.co.jp",
+  "mail_pass":"zxcvbnm@123",
+
+  "rivals": [
+    "https://www.instagram.com/camp_hack/",
+    "https://www.instagram.com/campzine/"
+  ],
+
+  "sheet": {
+    "key": "1ovfYaUjEY00-4OtFOgjJdKPMTRY3hhjgDsy8L2csToE",
+    "gas": "https://script.google.com/macros/s/AKfycbwuKWL-AcX7f-xChWhx41CjDpguBZ7Cf2--DqutoJKGHERsexfLz1S0Cg/exec"
+  },
+
+  "automatic_like": {
+    "reach"     : 40,
+    "max_follow": 5,
+
+    "release_follow": 11,
+    "release_min"   : 100,
+
+    "get_list" : 50
+  },
+
+  "template": [
+    "*\n*\n本日ご紹介するのは☝\n",
+    "さん！\n@",
+    "\n*\n*\n",
+    "\n*\n*\n他にも素敵な投稿がたくさんありますので、ぜひ☝️チェックしてみてください❣️\n*\n*\n掲載ご希望の方は\n▶︎▷ #campfilm と ▶︎▷ @camp__film\nのタグ付けをお願いします♪\n*\n*\n#キャンプ #camp #アウトドア #キャンプ場 #キャンプ道具 #キャンプ用品 #キャンプ好き #キャンプ行きたい #キャンプ好きな人と繋がりたい #camping #camper"
+  ]
+}
